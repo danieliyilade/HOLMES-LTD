@@ -1,3 +1,5 @@
+CREATE DATABASE Holmes
+
 CREATE TABLE products (
     ProductID SERIAL PRIMARY KEY,
     ProductName VARCHAR(255),
